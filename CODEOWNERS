@@ -1,0 +1,15 @@
+# Default owners for everything in the repo
+* @maholick
+
+# Source code
+/src/ @maholick
+
+# Configuration files
+package.json @maholick
+tsconfig.json @maholick
+Dockerfile @maholick
+docker-compose.yml @maholick
+
+# Documentation
+README.md @maholick
+LICENSE @maholick
